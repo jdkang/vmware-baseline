@@ -1,0 +1,2 @@
+UserVars.ESXiShellInteractiveTimeOut=900
+UserVars.ESXiShellTimeOut=900
