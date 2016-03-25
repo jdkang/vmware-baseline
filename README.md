@@ -1,7 +1,7 @@
 # vmware-baseline
 A VMWare baseline compliance script and modules based around the [VMWare Hardening Guide](https://www.vmware.com/security/hardening-guides)
 
-This is '''NOT''' intended to be a Daily Report. [vCheck](https://github.com/alanrenouf/vCheck-vSphere) satisfies that much better. This is intended to be used part and parcel with compliance scanners like Nessus.
+This is **NOT** intended to be a Daily Report. [vCheck](https://github.com/alanrenouf/vCheck-vSphere) satisfies that much better. This is intended to be used part and parcel with compliance scanners like Nessus.
 
 Originally written against VMWare 5.5U2. Initial tests indicate works with PowerCLI 6 but have not had opportunity to test against 6.0.
 
